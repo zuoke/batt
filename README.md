@@ -404,3 +404,7 @@ If you absolutely need to charge your Mac _immediately_ after waking up from sle
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=charlie0129/batt&type=Date)](https://www.star-history.com/#charlie0129/batt&Date)
+
+---
+
+**Symphony Validation Note (2026-05-09)**: This commit validates Symphony Claude Code typed-tool workflow integration for Linear + GitHub.
