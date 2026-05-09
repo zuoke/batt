@@ -404,3 +404,19 @@ If you absolutely need to charge your Mac _immediately_ after waking up from sle
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=charlie0129/batt&type=Date)](https://www.star-history.com/#charlie0129/batt&Date)
+
+---
+
+## Symphony Workflow Validation
+
+This repository has been validated for Symphony Claude Code typed-tool live validation (TES-22).
+
+**Validation Date**: 2026-05-09
+
+**Validation Scope**:
+- Linear tracker integration via typed tools
+- Repository core operations (checkout, diff, commit, push)
+- GitHub PR creation and management via typed tools
+- End-to-end workflow automation
+
+**Validation Result**: ✅ All typed workflow tools validated successfully.
