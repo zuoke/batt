@@ -1,0 +1,4 @@
+run_id=tapd-github-codex-typed-1778341349
+tracker=TAPD
+repo_provider=github
+agent_provider=codex
