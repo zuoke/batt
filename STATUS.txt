@@ -1,4 +1,4 @@
 tracker=TAPD
 repo_provider=github
 agent_provider=codex
-feedback_round=initial
+feedback_round=github-codex-reviewed
