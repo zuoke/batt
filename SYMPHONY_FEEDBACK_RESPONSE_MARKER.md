@@ -2,3 +2,5 @@
 
 run_id=feedback-response-marker-20260510221126
 initial_marker=pending
+inline_feedback_resolved=feedback-response-marker-20260510221126
+top_level_feedback_resolved=feedback-response-marker-20260510221126
